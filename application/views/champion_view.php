@@ -8,13 +8,7 @@
     
 </head>
 <body>
-    <nav class="navbar navbar-default">
-        <div class="container-fluid">
-            <div class="navbar-header">
-                <h3 class="navbar-text">Data Champion</h3>
-            </div>
-        </div>
-    </nav>
+    
     <div class="container">
         <br />
         <br />
@@ -22,10 +16,10 @@
             <div class="panel-heading">
                 <div class="row">
                     <div class="col-md-6">
-                        <h3 class="panel-title">Daftar Champion Wildrift</h3>
+                        <h3 class="panel-title">Daftar Champion LOL Wildrift</h3>
                     </div>
                     <div class="col-md-6" align="right">
-                        <button type="button" id="add_button" class="btn btn-success btn-xs">Tambah Data Champion</button>
+                        <button type="button" id="add_button" class="btn btn-success btn-xs">Tambah Data</button>
                     </div>
                 </div>
             </div>
